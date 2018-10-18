@@ -1,8 +1,7 @@
 # sh_app_git_day08
 
-bbb
 
-hello git
+bbb
 
 app_day08
 
